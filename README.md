@@ -7,3 +7,5 @@
 🔵I've been learning and building Frontend projects since then!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMagnabosco)](https://github.com/anuraghazra/github-readme-stats)
+
+Contact: nicolasmagnabosco@gmail.com
